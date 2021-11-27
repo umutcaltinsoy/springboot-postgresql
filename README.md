@@ -1,8 +1,7 @@
-# Springboot-Postgresql
+# RESTFul CRUD API
 
 Technology Stack : Java, SpringBoot, PostgreSQL, JPA, Hibernate, Maven
 
-For testing the API i used Postman.
 
 ### 1.) Post Http Request with Postman: ![post_method](https://user-images.githubusercontent.com/56873410/143680116-21011fe0-8006-4c68-9665-a103c6b1a757.png)
 
